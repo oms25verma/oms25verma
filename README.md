@@ -75,7 +75,7 @@ Building scalable backend systems and distributed architectures.
 ### Senior Software Engineer — New Relic
 
 - Worked on GitHub integration with New Relic platform
-- Explored integrations involving GitHub, ServiceNow and Boomi
+- Explored integrations involving GitHub, ServiceNow with Boomi
 - Worked around observability and platform engineering use cases
 
 ### Senior Software Engineer II — Infra.Market
@@ -101,89 +101,6 @@ Building scalable backend systems and distributed architectures.
 
 ---
 
-## 🚀 Featured Projects
-
-### Mock Interview Platform
-
-Role-based interview scheduling platform.
-
-**Tech:** Go, JWT, PostgreSQL, Docker, REST APIs
-
-Focus areas:
-
-- Candidate and interviewer roles
-- Slot creation and booking
-- JWT authentication
-- Collision checks
-- Booking limits
-- Meeting link generation
-
----
-
-### Split Expense App
-
-Expense sharing backend application.
-
-**Tech:** Java, Spring Boot, REST APIs
-
-Focus areas:
-
-- Group creation
-- Add users
-- Add expenses
-- Balance calculation
-- Settlement flow
-- Transaction history
-
----
-
-### Browserless Service
-
-Backend service to launch headless Chromium sessions.
-
-**Tech:** Go, Chromium, Docker
-
-Focus areas:
-
-- Launch browser instances
-- Return WebSocket endpoints
-- Track active sessions
-- Minimal dashboard
-
----
-
-### Kafka Playground
-
-Hands-on Kafka learning repository.
-
-Focus areas:
-
-- Producer
-- Consumer
-- Consumer Groups
-- Topics
-- Partitions
-- Offset Commit
-- Retry Mechanism
-- Dead Letter Queue
-
----
-
-### System Design Notes
-
-Real-world system design case studies.
-
-Topics:
-
-- URL Shortener
-- Notification System
-- Chat Application
-- Payment Gateway
-- Expense Sharing System
-- Ticket Booking System
-
----
-
 ## 📚 Learning Journey
 
 Currently improving deeply in:
@@ -194,7 +111,6 @@ Currently improving deeply in:
 - Kubernetes deployment
 - Cloud-native backend development
 - Staff Engineer level system design
-- Production-grade Java Spring Boot projects
 
 ---
 
